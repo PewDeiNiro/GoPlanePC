@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Plane
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Plane\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=x\ y\ url
+comment2.target=Plane(double,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=void\ keyBoardControl()
+comment4.params=
+comment4.target=boolean\ isW()
+comment5.params=
+comment5.target=boolean\ isS()
+comment6.params=
+comment6.target=boolean\ isA()
+comment7.params=
+comment7.target=boolean\ isD()
+numComments=8
